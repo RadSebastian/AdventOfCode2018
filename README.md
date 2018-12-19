@@ -1,3 +1,3 @@
 # AdventOfCode2018
 
-adventofcode.com
+https://adventofcode.com
